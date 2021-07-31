@@ -1,0 +1,34 @@
+src/*.exe
+src/unknowncoin
+src/unknowncoind
+src/test_unknowncoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.unknowncoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+unknowncoin-qt
+Unknowncoin-Qt.app
+
+# Unit-tests
+Makefile.test
+unknowncoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
