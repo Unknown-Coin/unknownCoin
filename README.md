@@ -4,7 +4,10 @@ Unknowncoin integration/staging tree
 http://www.unknowncoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
+
 Copyright (c) 2011-2014 Litecoin Developers
+
+
 2021 UnknownCoin developers
 
 What is Unknowncoin?
@@ -17,8 +20,6 @@ Unknowncoin is a lite version of Bitcoin using scrypt as a proof-of-work algorit
  - 25 coins per block
 
 
-For more information, as well as an immediately useable, binary version of
-the Unknowncoin client sofware, see http://www.unknowncoin.org.
 
 License
 -------
@@ -44,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/unknowncoin-project/unknowncoin/tags) are created
+completely stable. [Tags]https://github.com/micfun123/unknownCoin) are created
 regularly to indicate new official, stable release versions of Unknowncoin.
 
 Testing
