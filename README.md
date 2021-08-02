@@ -71,4 +71,11 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./unknowncoin-qt_test
 
-# UnknownCoin
+#Contact
+
+Feel free to get intouch with me
+
+twitter https://twitter.com/Michaelrbparker
+
+linkedin https://www.linkedin.com/in/michael-parker-b67a4419b
+
