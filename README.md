@@ -1,7 +1,7 @@
 Unknowncoin integration/staging tree
 ================================
 
-http://www.unknowncoin.org
+
 
 Copyright (c) 2009-2014 Bitcoin Developers
 
