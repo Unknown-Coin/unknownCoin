@@ -1,8 +1,5 @@
 https://unknowncoin.netlify.app/
 
-Block Explorer http://165.227.237.244:3001/
-
-
 Unknowncoin integration/staging tree
 ================================
 
@@ -83,5 +80,7 @@ Feel free to get intouch with me
 twitter https://twitter.com/Michaelrbparker
 
 linkedin https://www.linkedin.com/in/michael-parker-b67a4419b
+
+reddit = https://www.reddit.com/r/UnknownCoin/
 
 Take a look at our site = https://unknowncoin.netlify.app/
